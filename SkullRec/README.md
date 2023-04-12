@@ -2,6 +2,14 @@
 
 <img src="https://github.com/Project-MONAI/research-contributions/blob/main/SkullRec/figs/dataset.png" alt="dataset" width="600"/>
 
+From MUG500+ README:
+[[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
+[[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2352340921008003)]
+
+---
+![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
+----
 
 ### Prepare the dataset
 
